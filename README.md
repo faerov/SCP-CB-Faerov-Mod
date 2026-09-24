@@ -7,8 +7,8 @@ This game and the source code are licensed under Creative Commons Attribution-Sh
 
 http://creativecommons.org/licenses/by-sa/3.0/
 
-- ! Requirements: 
-- • Blitz3D SMBF (https://github.com/faerov/Blitz3D-SMBF)
+- Requirements: 
+  - Blitz3D SMBF (https://github.com/faerov/Blitz3D-SMBF)
   
 ### How to build Blitz3D SMBF?
 
