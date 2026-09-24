@@ -9,16 +9,16 @@ http://creativecommons.org/licenses/by-sa/3.0/
 
 - ! Requirements: 
 - • Blitz3D SMBF (https://github.com/faerov/Blitz3D-SMBF)
-
+-
 - ! How to build Blitz3D SMBF?
-
+-
 - ! Requirements:
 - • Visual Studio Community 2022
 - • Desktop development with C++
 - • C++ MFC for latest v142 build tools (x86 & x64)
 - • C++ ATL for latest v142 build tools (x86 & x64)
 - • ASP.NET and web development
-
+-
 - ! Steps:
 - • Open blitz3d.sln in Visual Studio 2022.
 - • Select Release or Debug config and rebuild the entire solution.
