@@ -7,4 +7,4 @@ This game and the source code are licensed under Creative Commons Attribution-Sh
 
 http://creativecommons.org/licenses/by-sa/3.0/
 
-Requirements: • Blitz3D TSS v1.136
+Requirements: • Blitz3D SMBF (https://github.com/faerov/Blitz3D-SMBF)
