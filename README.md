@@ -9,8 +9,8 @@ http://creativecommons.org/licenses/by-sa/3.0/
 
 - ! Requirements: 
 - • Blitz3D SMBF (https://github.com/faerov/Blitz3D-SMBF)
--
-- ! How to build Blitz3D SMBF?
+  
+### How to build Blitz3D SMBF?
 
 ### Prepare
 
