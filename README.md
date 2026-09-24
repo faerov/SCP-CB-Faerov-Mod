@@ -8,17 +8,17 @@ This game and the source code are licensed under Creative Commons Attribution-Sh
 http://creativecommons.org/licenses/by-sa/3.0/
 
 - Requirements: 
-• Blitz3D SMBF (https://github.com/faerov/Blitz3D-SMBF)
-• Visual Studio Community 2022
-• Desktop development with C++
-• C++ MFC for latest v142 build tools (x86 & x64)
-• C++ ATL for latest v142 build tools (x86 & x64)
-• ASP.NET and web development
+- • Blitz3D SMBF (https://github.com/faerov/Blitz3D-SMBF)
+- • Visual Studio Community 2022
+- • Desktop development with C++
+- • C++ MFC for latest v142 build tools (x86 & x64)
+- • C++ ATL for latest v142 build tools (x86 & x64)
+- • ASP.NET and web development
 - Steps:
-• Open blitz3d.sln in Visual Studio 2022.
-• Select Release or Debug config and rebuild the entire solution.
-• All done! You can find output files in the _release and _release/bin dirs. Feel free to delete .pdb and .ilk files here.
-• Note: Blitz3D TSS uses the dynamic version of the fmod audio lib.
+- • Open blitz3d.sln in Visual Studio 2022.
+- • Select Release or Debug config and rebuild the entire solution.
+- • All done! You can find output files in the _release and _release/bin dirs. Feel free to delete .pdb and .ilk files here.
+- • Note: Blitz3D TSS uses the dynamic version of the fmod audio lib.
 
 When redistributing programs built with Blitz3D TSS, you will need to also include the fmod.dll file found in the bin directory with your programs.
 
