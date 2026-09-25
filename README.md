@@ -32,4 +32,4 @@ http://creativecommons.org/licenses/by-sa/3.0/
   
   This should be placed in the same directory as your program's executable.
 
-- • Note: Blitz3D SMBF uses the dynamic version of the fmod audio lib.
+- **Note:** Blitz3D SMBF uses the dynamic version of the fmod audio lib.
